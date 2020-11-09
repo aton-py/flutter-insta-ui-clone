@@ -1,7 +1,14 @@
 # insta_clone
 
 Instagram UI clone by Aton Bertini Dornfeld.
+
 Feel free to give it a star!
+
+
+![alt text](https://github.com/aton-py/flutter-insta-ui-clone/blob/master/Insta-clone-by-aton.png)
+
+Tutorial:
+https://www.youtube.com/watch?v=CgO6QE79yTc
 
 ## Getting Started
 
